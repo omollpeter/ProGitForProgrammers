@@ -1,1 +1,1 @@
-Text file to test merge conflict
+Text file to test merge conflict and how to resolve conflict
