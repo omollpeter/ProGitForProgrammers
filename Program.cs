@@ -6,5 +6,7 @@ namespace ProGitForProgrammers
         {
             return left + right;
         }
+        
+        public int Subtract
     }
 }
