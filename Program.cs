@@ -10,3 +10,5 @@ namespace ProGitForProgrammers
         public int Subtract
     }
 }
+
+#Multiplication class
