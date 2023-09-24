@@ -12,3 +12,4 @@ namespace ProGitForProgrammers
 }
 
 #Multiplication class
+#Division class
